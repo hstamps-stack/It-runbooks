@@ -20,8 +20,8 @@ Step-by-step troubleshooting runbooks written from real incidents in my home lab
 
 ## About
 
-Written by Harrison Stamps. CompTIA Network+. Open to IT support and systems roles.
+Open to IT support and systems roles.
 
-Contact: [your email or LinkedIn link]
+Contact: [https://www.linkedin.com/in/harrison-stamps]
 
 All IP addresses and names in these runbooks are placeholders.
